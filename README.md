@@ -1,0 +1,2 @@
+# RipbotCommands
+For Ripbandit
